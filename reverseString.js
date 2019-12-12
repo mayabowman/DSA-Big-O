@@ -8,3 +8,5 @@ function reverseString(string) {
   reverseOrder.join('')
   return reverseOrder
 }
+
+// Time complexity: Linear time, running time directly proportional to size of input

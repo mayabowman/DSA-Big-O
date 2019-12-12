@@ -5,3 +5,5 @@ function stringSplitter(str) {
   }
   return splitString
 }
+
+// Time complexity: Linear time, running time directly proportional to size of input

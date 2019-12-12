@@ -4,3 +4,5 @@ function countSheep(num) {
   }
   return console.log('All sheep jumped over the fence')
 }
+
+// Time complexity: Linear Time, directly proportional to size of input

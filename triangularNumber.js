@@ -5,3 +5,5 @@ function triangularNumber(n) {
   }
   return total
 }
+
+// Time complexity: Exponential time, running times grow rapidly with any increase in input size

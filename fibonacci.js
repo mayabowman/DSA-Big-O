@@ -15,3 +15,5 @@ function fibonacci(num) {
 
   return currentNum
 }
+
+// Time complexity: Exponential time, running times grow rapidly with any increase in input size
